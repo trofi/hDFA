@@ -2,7 +2,7 @@
 -- Representation of DFAs and some simple algorithms on them.
 module Data.DFA
        (
-         DFA
+         DFA(..)
        , Label
        , State
 

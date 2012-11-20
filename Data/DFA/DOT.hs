@@ -16,7 +16,7 @@ import Prelude hiding ( lex, read )
 import Foreign
 import Foreign.C
 
-import Data.DFA ( DFA, Label )
+import Data.DFA ( DFA(..), Label )
 -- import qualified Data.DFA as DFA
 
 -------------------------------------------------------------------
